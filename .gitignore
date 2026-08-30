@@ -1,9 +1,10 @@
-# rawNote build output
-build/
+# intermediate build artifacts (not worth committing)
 *.obj
-*.exe
+*.res
 *.pdb
 *.ilk
-*.res
 *.lst
 .vs/
+
+# user data / notes - NEVER push these
+build/vault/
