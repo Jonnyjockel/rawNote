@@ -1,0 +1,9 @@
+# rawNote build output
+build/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.res
+*.lst
+.vs/
