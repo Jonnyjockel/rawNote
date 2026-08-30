@@ -15,12 +15,11 @@
   line-range-delete source via exec (use edit tool).
 
 ## 2026-08-20 — course correction (Jonny)
-- Jonny clarified: rawNote was meant to be a **note-taking app** (Obsidian-like)
-  written **fully in assembly**, NOT an assembly-learning scratchpad. My earlier
+- Jonny clarified: rawNote was meant to be a **note-taking app** written **fully in assembly**, NOT an assembly-learning scratchpad. My earlier
   interpretation was wrong; corrected.
 - Rebuilt rawNote as a real Win32 GUI app in 100% x86-64 assembly (ML64).
-- Scope decision (told Jonny): full Obsidian = multi-month; shipped a real v1
-  with note CRUD + search + word/char count, structured to grow.
+- Scope decision (told Jonny): a full-featured product = multi-month; shipped a
+  real v1 with note CRUD + search + word/char count, structured to grow.
 
 ### v1 structure
 - `src/rawNote.asm` — entire app (entry point + all logic), single file.

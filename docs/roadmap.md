@@ -1,4 +1,4 @@
-# rawNote — roadmap
+# rawNote - roadmap
 
 ## v1 (shipped)
 - [x] Native GUI: sidebar + editor + search + status bar + menu
@@ -7,14 +7,14 @@
 - [x] Word + character count
 - [x] Open vault folder, Ctrl+N / Ctrl+S accelerators
 
-## v2 — polish & robustness
+## v2 - polish & robustness
 - [ ] Dirty indicator (asterisk) + save prompt on close with unsaved changes
-- [ ] UTF-8 with BOM handling (interop with other editors / Obsidian)
+- [ ] UTF-8 with BOM handling (interop with other editors)
 - [ ] Empty-state hint text in the search box
 - [ ] Remember last-opened note + window size/position (INI file)
 - [ ] Open note on Enter (single click + keyboard), not just double-click
 
-## v3 — Obsidian-style features (the interesting work)
+## v3 - Richer markdown features (the interesting work)
 - [ ] RichEdit-based editor with **live markdown preview** (bold/italic/headers/code)
 - [ ] `[[wiki-link]]` parsing + click-to-open (backlinks-lite)
 - [ ] Full-content search (not just filename)

@@ -1,6 +1,6 @@
 # rawNote
 
-A minimal, Obsidian-style note-taking app written **100% in x86-64 assembly**
+A minimal note-taking app written **100% in x86-64 assembly**
 (MASM / ML64), using the Win32 API directly. No C runtime, no resource files,
 no framework — a single native `.exe`.
 
